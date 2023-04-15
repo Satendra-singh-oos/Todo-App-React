@@ -1,5 +1,5 @@
  
-# Todo-App( With CRUD Opration) #
+# Todo-App( With CRUD Operation) #
 
 ![](https://img.shields.io/badge/-Task---brightgreen)
 
